@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../01_Positioning_Elements"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02_Positioning_Relative_Absolute"
+	}
+}
